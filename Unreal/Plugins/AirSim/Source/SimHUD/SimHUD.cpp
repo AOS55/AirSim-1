@@ -3,7 +3,7 @@
 #include "Kismet/KismetSystemLibrary.h"
 #include "Misc/FileHelper.h"
 
-#include "vehicles/FixedWing/SimModeWorldFixedWing.h"
+#include "Vehicles/FixedWing/SimModeWorldFixedWing.h"
 #include "Vehicles/Multirotor/SimModeWorldMultiRotor.h"
 #include "Vehicles/Car/SimModeCar.h"
 #include "Vehicles/ComputerVision/SimModeComputerVision.h"
